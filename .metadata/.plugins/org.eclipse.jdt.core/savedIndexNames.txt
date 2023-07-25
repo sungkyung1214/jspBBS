@@ -1,0 +1,11 @@
+INDEX VERSION 1.132+D:\ksk\jspstudyBBS\.metadata\.plugins\org.eclipse.jdt.core
+1090569730.index
+3637770022.index
+2313866223.index
+3819707233.index
+3437290560.index
+2545964682.index
+1865797976.index
+1820736651.index
+3324201854.index
+2554247519.index
